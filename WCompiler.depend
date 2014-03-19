@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1395240402 source:c:\users\wyden\desktop\wcompiler\main.cpp
+	<iostream>
+	"compiler.h"
+
+1395240350 c:\users\wyden\desktop\wcompiler\parser.h
+	<string>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<iostream>
+	<list>
+	<cmath>
+
+1395241609 source:c:\users\wyden\desktop\wcompiler\parser.cpp
+	"parser.h"
+
+1395241779 source:c:\users\wyden\desktop\wcompiler\compiler.cpp
+	"compiler.h"
+
+1395240976 c:\users\wyden\desktop\wcompiler\compiler.h
+	"parser.h"
+
